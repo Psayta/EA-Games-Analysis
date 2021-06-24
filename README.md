@@ -1,5 +1,5 @@
 # EA Games Analysis
-Data project for JUMPLUS including data analysis of FIFA players across the world using Python and Jupyterbook
+Data analysis project on Madden and FIFA players rosters using Python and Jupyterbook
 
 FIFA 2020 Analysis
   Files included: 
